@@ -1,4 +1,4 @@
 # AR-Minecraft
-## Block-Builder AR Game with AR Fundation and Unity
+## AR game using AR Fundation and AR Core mad in Unity
 
 ![Test](PlacementMarkerBase.png)
